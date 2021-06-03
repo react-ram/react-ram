@@ -1,6 +1,6 @@
 ### Hello  👋
 
-I am 🧑 *Ramcharan*, **Mobile 📱 & Web 💻 Application Developer** 😎\
+I am 🧑 *Ramcharan*, **Mobile 📱 & Web 💻 Application Developer** 😎
 
 
 
