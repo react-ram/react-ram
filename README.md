@@ -1,6 +1,6 @@
 ### Hello  👋
 
-I am 🧑 *Ramcharan*, **Mobile 📱 & Web 💻 Application Developer** 😎
+I am 🧑 *Ramcharan*, **Mobile 📱 & Web 💻 Application Developer** 😎\
 works at  ![Infosys](https://img.shields.io/badge/-Infosys-007CC3?style=flat&logo=infosys)&nbsp;
 
 
